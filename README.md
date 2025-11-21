@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1070" height="483" alt="Screenshot 2025-09-12 204118" src="https://github.com/user-attachments/assets/839f18d7-dae0-473a-a74d-6b10a2c82935" />
+
 ## Output
+<img width="1919" height="925" alt="Screenshot 2025-09-12 204137" src="https://github.com/user-attachments/assets/54d3c99b-cd29-47af-9b37-5e5602e4f752" />
+
 ## Result
+Thus, Half wave controlled rectifier circuit was designed, simulated and analysed in MATLAB Simulink.
